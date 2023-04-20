@@ -1,0 +1,41 @@
+* {
+    text-align: center;
+    font-size: 90px;
+}
+
+.flag-background   {
+    width:900px;
+    height: 600px;
+    background-color: #CF1026;
+    margin:auto;
+    position: relative;
+}
+
+.flag-background p {
+    position: relative;
+    color: white;
+    top:15px;
+}
+
+.blue-stripe {
+    width: 900px;
+    height:300px;
+    background-color: #042868;
+    position: absolute;
+    top: 150px;
+}
+
+.white-circle {
+    width:250px;
+    height: 250px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    margin: 25px auto;
+}
+
+.white-circle p {
+    position: relative;
+    margin: 0;
+    color: black;
+}
